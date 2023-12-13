@@ -1,0 +1,234 @@
+                                         
+                                         
+                                         
+                                         
+                                         
+     body{
+        background-color: darkgrey;
+        color:black;
+        text-align: left;
+        margin-right: 20px;
+        padding-left: 20px;
+     }                                    
+                                         
+   h1{
+    background-color: rgb(180, 152, 204);
+    width: 550px;
+    text-align: center;
+    
+   }                                      
+                                         
+ .container button{
+
+    margin :10px;
+    padding:5px ;
+    color: #ffffff;
+    background-color:rgb(215, 171, 132);
+    cursor: pointer;
+ }
+
+
+
+ #show, #content{
+    display: none;
+    
+}
+ #show:checked~#content{
+    display: block;
+} 
+
+
+#span, #sp{
+    display: none;
+    
+}
+ #span:checked~#sp{
+    display: block;
+} 
+
+#form, #fm{
+    display: none;
+    
+}
+ #form:checked~#fm{
+    display: block;
+} 
+
+#table, #tb{
+    display: none;
+    
+}
+ #table:checked~#tb{
+    display: block;
+} 
+
+#bd, #b{
+    display: none;
+    
+}
+ #bd:checked~#b{
+    display: block;
+} 
+ 
+#para, #p{
+    display: none;
+    
+}
+ #para:checked~#p{
+    display: block;
+} 
+
+#strong, #st{
+    display: none;
+    
+}
+ #strong:checked~#st{
+    display: block;
+} 
+
+#unorder, #unor{
+    display: none;
+    
+}
+ #unorder:checked~#unor{
+    display: block;
+} 
+
+#order, #or{
+    display: none;
+    
+}
+ #order:checked~#or{
+    display: block;
+} 
+
+#list, #li{
+    display: none;
+    
+}
+ #list:checked~#li{
+    display: block;
+} 
+
+#tabd, #tab{
+    display: none;
+    
+}
+ #tabd:checked~#tab{
+    display: block;
+} 
+
+#dhoni, #dho{
+    display: none;
+    
+}
+ #dhoni:checked~#dho{
+    display: block;
+} 
+
+#insert, #ins{
+    display: none;
+    
+}
+ #insert:checked~#ins{
+    display: block;
+} 
+
+#anchor, #an{
+    display: none;
+    
+}
+ #anchor:checked~#an{
+    display: block;
+} 
+
+#defi, #deft{
+    display: none;
+    
+}
+ #defi:checked~#deft{
+    display: block;
+} 
+
+
+
+#area, #ar{
+    display: none;
+    
+}
+ #area:checked~#ar{
+    display: block;
+} 
+
+
+#base, #basement{
+    display: none;
+    
+}
+ #base:checked~#basement{
+    display: block;
+} 
+
+
+#breakline, #break{
+    display: none;
+    
+}
+ #breakline:checked~#break{
+    display: block;
+} 
+
+
+#horizontal, #hori{
+    display: none;
+    
+}
+ #horizontal:checked~#hori{
+    display: block;
+} 
+
+
+#image, #img{
+    display: none;
+    
+}
+ #image:checked~#img{
+    display: block;
+} 
+
+
+#in, #i{
+    display: none;
+    
+}
+ #in:checked~#i{
+    display: block;
+} 
+
+
+#link, #li{
+    display: none;
+    
+}
+ #link:checked~#li{
+    display: block;
+} 
+
+
+#mata, #ma{
+    display: none;
+    
+}
+ #mata:checked~#ma{
+    display: block;
+} 
+
+
+#parameter, #param{
+    display: none;
+    
+}
+ #parameter:checked~#param{
+    display: block;
+} 
+
